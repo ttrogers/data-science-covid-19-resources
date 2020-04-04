@@ -22,6 +22,8 @@ _Human behavior datasets_
 
 - [International COVID-19 survey web page, with link to OSF](https://covid19-survey.org/results.html)
 
+- [Large dataset of tweets related to COVID-19](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+
 ### Models
 
 - This [Kaggle COVID-19 page](https://www.kaggle.com/tags/covid19) has links to datasets, code for models, and contests.
