@@ -64,7 +64,5 @@ _Human behavior datasets_
 
 ## Studies of human behavior.
 
-- Vox article: Partisan affiliation is the best predictor of behavior during pandemic.  https://www.vox.com/platform/amp/science-and-health/2020/3/31/21199271/coronavirus-in-us-trump-republicans-democrats-survey-epistemic-crisis?utm_campaign=drvox&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true
-
-- Primary-source paper:  https://www.vox.com/platform/amp/science-and-health/2020/3/31/21199271/coronavirus-in-us-trump-republicans-democrats-survey-epistemic-crisis?utm_campaign=drvox&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true
-
+- [Vox article: Partisan affiliation is the best predictor of behavior during pandemic.](https://www.vox.com/platform/amp/science-and-health/2020/3/31/21199271/coronavirus-in-us-trump-republicans-democrats-survey-epistemic-crisis?)
+  - [Primary-source paper.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562796)
