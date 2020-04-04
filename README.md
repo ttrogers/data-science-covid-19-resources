@@ -22,13 +22,20 @@ _Human behavior datasets_
 
 - [International COVID-19 survey web page, with link to OSF](https://covid19-survey.org/results.html)
 
-- [Large dataset of tweets related to COVID-19](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+- [Large dataset indicating tweet ID and sentiment score for COVID-19 tweets](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+  - [A beginners resource to hydrating and using Tweet datasets](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data#hydrating)
+
+- [Unacast visualizations showing social distancing metrics including travel distance data.](https://www.unacast.com/covid19/social-distancing-scoreboard)
+
+- [Google mobility reports showing plots of mobility data by country and subregion.](https://www.google.com/covid19/mobility/)
 
 ### Models
 
 - This [Kaggle COVID-19 page](https://www.kaggle.com/tags/covid19) has links to datasets, code for models, and contests.
 
 - Here is code to implement [global forecast using SIR models](https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions)
+
+- [R code and libraries for running/assessing SIR models.](http://rstudio-pubs-static.s3.amazonaws.com/6852_c59c5a2e8ea3456abbeb017185de603e.html)
 
 ### UW-Madison-based resources:
 
@@ -50,6 +57,10 @@ _Human behavior datasets_
 - [Interactive simulation modeling at Melting Asphalt](https://www.meltingasphalt.com/interactive/outbreak/). This fantastic interactive tools for SIR modeling gives a sense for how different assumptions about the disease do/do not impact total spread and fatalities, ending with an exercise in which _you_ can try to figure out how best to "flatten the curve."
 
 - [Video overview of SIR models and additional complexities from 3 brown 1 blue.](https://www.youtube.com/watch?v=gxAaO2rsdIs) This 20-minute video is worth your while if you want to understand some of the complexities that arise under SIR models with more realistic assumptions.
+
+- [Financial times COVID page with several graphical visualizations.](https://www.ft.com/coronavirus-latest)
+
+
 
 ## Studies of human behavior.
 
