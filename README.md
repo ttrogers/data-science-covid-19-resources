@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## COVID-19 Data Science and Behavior Links
 
-You can use the [editor on GitHub](https://github.com/ttrogers/data-science-covid-19-resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page collects links to online resources for non-medical, non-expert data-scientists interested in understanding the COVID-19 pandemic and human behavioral responses to same. I'm new to Git pages and GitHub generally and welcome suggestions, edits, additions, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data repositories
 
-### Markdown
+_Disease spread/status_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Johns Hopkins Github repo for data and dashboard visualization](https://github.com/CSSEGISandData/COVID-19)
 
-```markdown
-Syntax highlighted code block
+- [Worldometers nteractive data visualizations by country](https://www.worldometers.info/coronavirus/)
 
-# Header 1
-## Header 2
-### Header 3
+- [New York Times disease/death count data by state](https://github.com/nytimes/covid-19-data)
 
-- Bulleted
-- List
+- This [Wikipedia article](https://en.wikipedia.org/wiki/COVID-19_testing) contains a table with number of tests conducted per country and results.
 
-1. Numbered
-2. List
+_Human behavior datasets_
 
-**Bold** and _Italic_ and `Code` text
+- [Dataset of major containment efforts by country and date](http://epidemicforecasting.org/containment)
 
-[Link](url) and ![Image](src)
-```
+- [Attitudes about COVID-19, Pew research center interactive](https://www.pewresearch.org/pathways-2020/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [International COVID-19 survey web page, with link to OSF](https://covid19-survey.org/results.html)
 
-### Jekyll Themes
+### Models
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ttrogers/data-science-covid-19-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- This [Kaggle COVID-19 page](https://www.kaggle.com/tags/covid19) has links to datasets, code for models, and contests.
 
-### Support or Contact
+- Here is code to implement [global forecast using SIR models](https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### UW-Madison-based resources:
+
+- The [UW Data-science coalition for COVID-19](https://datascience.wisc.edu/covid19/) has links to many resources to several resources including state and national data and visualizations. Here are some I thought particularly useful:
+  - [COVIDIFY---Python library for getting latest global data](https://github.com/AaronWard/covidify)
+  - [Wisconsin COVID-19 status visualized](https://uw-mad.maps.arcgis.com/apps/opsdashboard/index.html#/d154b68773b940ffa7871a45ddc0ac95)
+  - [Data and visualizations mapping mobility changes at the county level across US](https://geods.geography.wisc.edu/archives/2038)
+
+- [Jerry Zhu's "ten-hundred" plot to visualize exponential growth (Youtube explanation and Matlab code):](http://pages.cs.wisc.edu/~jerryzhu/COVID19/)
+
+- [Laurent Lessard's JuPyTeR notebook for downloading/visualizing Johns Hopkins data](https://github.com/LaurentLessard/covid19/blob/master/covid.ipynb)
+
+- [Scott Sievert's blog visualizing various aspects of disease spread](https://stsievert.com/blog/2020/03/14/covid-19/)
+
+### Visualizations and interactive demos
+
+- [Washington Post: How social distancing flattens the curve.](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) This is a compelling visualization of SIR models, and why social distancing is the best intervention we currently have for limiting mass death in US.
+
+- [Interactive simulation modeling at Melting Asphalt](https://www.meltingasphalt.com/interactive/outbreak/). This fantastic interactive tools for SIR modeling gives a sense for how different assumptions about the disease do/do not impact total spread and fatalities, ending with an exercise in which _you_ can try to figure out how best to "flatten the curve."
+
+- [Video overview of SIR models and additional complexities from 3 brown 1 blue.](https://www.youtube.com/watch?v=gxAaO2rsdIs) This 20-minute video is worth your while if you want to understand some of the complexities that arise under SIR models with more realistic assumptions.
+
+## Studies of human behavior.
+
+- Vox article: Partisan affiliation is the best predictor of behavior during pandemic.  https://www.vox.com/platform/amp/science-and-health/2020/3/31/21199271/coronavirus-in-us-trump-republicans-democrats-survey-epistemic-crisis?utm_campaign=drvox&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true
+
+- Primary-source paper:  https://www.vox.com/platform/amp/science-and-health/2020/3/31/21199271/coronavirus-in-us-trump-republicans-democrats-survey-epistemic-crisis?utm_campaign=drvox&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true
+
