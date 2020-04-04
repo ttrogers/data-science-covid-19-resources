@@ -8,7 +8,7 @@ _Disease spread/status_
 
 - [Johns Hopkins Github repo for data and dashboard visualization](https://github.com/CSSEGISandData/COVID-19)
 
-- [Worldometers nteractive data visualizations by country](https://www.worldometers.info/coronavirus/)
+- [Worldometers interactive data visualizations by country](https://www.worldometers.info/coronavirus/)
 
 - [New York Times disease/death count data by state](https://github.com/nytimes/covid-19-data)
 
