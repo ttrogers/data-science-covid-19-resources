@@ -60,6 +60,7 @@ _Human behavior datasets_
 
 - [Financial times COVID page with several graphical visualizations.](https://www.ft.com/coronavirus-latest)
 
+- [An interactive visualization of the exponential spread of COVID-19](https://91-divoc.com/pages/covid-visualization/) This visualization focuses on the growth curve (especially the exponential trend) of confirmed cases by country, US States.
 
 
 ## Studies of human behavior.
